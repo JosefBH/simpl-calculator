@@ -1,0 +1,23 @@
+body {
+  /*display: flex;*/
+  /*justify-content: center;*/
+  /*align-items: center;*/
+  /*width: 5rem;*/
+  /*height: 5rem;*/
+  border: 0.25rem dashed crimson;
+}
+input {
+  margin: 2rem;
+  padding: 0;
+  width: 95%;
+  height: 2rem;
+  display: block;
+}
+.btn [type="text"] {
+  font-size: 2rem;
+  font-style: bold;
+  content: none;
+}
+p {
+  text-align: center;
+}
